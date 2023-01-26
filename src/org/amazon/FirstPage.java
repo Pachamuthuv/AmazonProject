@@ -5,5 +5,9 @@ public class FirstPage {
 		
 
 	}
+	private void methodTwo() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
